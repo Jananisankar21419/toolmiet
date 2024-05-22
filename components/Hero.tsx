@@ -41,7 +41,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-[50ch]  ">
-            Explore Our Toolmiet Today for Resources, Support, and Success!
+            Explore Toolmiet Today for Resources, Support, and Success!
           </p>
 
           {/**
