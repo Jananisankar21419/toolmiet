@@ -48,4 +48,52 @@ export const projects = [
 
     link: "https://ui.aceternity.com/",
   },
+  {
+    id: 7,
+    title: "App Backend",
+    des: "A simple backend for your static website to make it dynamic.",
+    img: "appbackend.png",
+
+    link: "https://appbackend.io/",
+  },
+   {
+    id: 8,
+    title: "Postman",
+    des: "Postman is an API platform for building and using APIs. Create better APIs - faster.",
+    img: "postman.png",
+
+    link: "https://www.postman.com/",
+  },
+   {
+    id: 9,
+    title: "Replicate",
+    des: "AI API for generating synthetic data",
+    img: "replicate.png",
+
+    link: "https://replicate.com/",
+  },
+  {
+    id: 10,
+    title: "Revert",
+    des: "Revert is an open-source unified API to build, maintain and scale your ALL of your products",
+    img: "revert.png",
+
+    link: "https://www.revert.dev/",
+  },
+  {
+    id: 11,
+    title: "Strapi",
+    des: "The leading open-source headless CMS integration with your apps",
+    img: "strapi.png",
+
+    link: "https://strapi.io/",
+  },
+  {
+    id: 12,
+    title: "UploadThing",
+    des: "A simple file uploader for your web app especially for Nextjs Developers",
+    img: "upload.png",
+
+    link: "https://uploadthing.com/",
+  },
 ];
