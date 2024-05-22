@@ -67,7 +67,7 @@ export const projects = [
    {
     id: 9,
     title: "Replicate",
-    des: "AI API for generating synthetic data",
+    des: "AI API for generating synthetic data. Run and fine-tune open-source models.",
     img: "replicate.png",
 
     link: "https://replicate.com/",
