@@ -14,6 +14,11 @@ export default function FooterDark() {
       href: "https://forms.gle/4q8VQqwa7qJfd7Pk6",
       label: "Submit feedback",
     },
+    {
+      id: 3,
+      href: "https://github.com/Jananisankar21419/toolmiet",
+      label: "Contribute",
+    },
   ];
 
   return (
