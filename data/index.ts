@@ -179,7 +179,7 @@ export const projects = [
     id: 26,
     title: "Frontend Practice",
     des: "Take your frontend skills to the next level by recreating real websites from real companies.",
-    img: "frontend-practice",
+    img: "frontend-practice.png",
     link: "https://www.frontendpractice.com/",
   },
   {
@@ -207,7 +207,7 @@ export const projects = [
     id: 30,
     title: "Lighthouse",
     des: "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.",
-    img: "lighthouse.png",
+    img: "light2.png",
     link: "https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
   },
   {
@@ -223,5 +223,12 @@ export const projects = [
     des: "For the love of beautiful, clean and functional websites for your projects",
     img: "minimal.png",
     link: "https://minimal.gallery/",
+  },
+  {
+    id: 33,
+    title: "Mobbin",
+    des: "Browse and search across thousands of Web UI elements for UI & UX research",
+    img: "mobbin.png",
+    link: "https://mobbin.com/browse/web/ui-elements",
   },
 ];
