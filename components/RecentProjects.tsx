@@ -1,5 +1,5 @@
 "use client";
-
+import React, { useState } from "react";
 import { FaLocationArrow } from "react-icons/fa6";
 
 import { projects } from "@/data";
