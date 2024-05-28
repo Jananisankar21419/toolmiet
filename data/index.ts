@@ -319,7 +319,7 @@ export const projects = [
     id: 46,
     title: "Storefront Design",
     des: "Explore a curated collection of unique e-commerce storefronts updated every Friday. ",
-    img: "storefront.png",
+    img: "store.png",
     link: "https://www.storefront.design/",
   },
   {
