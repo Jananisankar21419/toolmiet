@@ -392,4 +392,11 @@ export const projects = [
     img: "ztext.png",
     link: "https://bennettfeely.com/ztext/",
   },
+  {
+    id: 57,
+    title: "Lenis",
+    des: "An elegant smooth scroll API for the web applications to create cool websites",
+    img: "lenis.png",
+    link: "https://lenis.darkroom.engineering/",
+  },
 ];
