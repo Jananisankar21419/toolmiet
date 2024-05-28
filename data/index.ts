@@ -282,10 +282,10 @@ export const projects = [
   },
     {
     id: 41,
-    title: "Roadmap.sh",
-    des: "roadmap.sh is a community effort to create roadmaps, guides and other educational content ",
-    img: "roadmap.png",
-    link: "https://roadmap.sh/",
+    title: "Mantine",
+    des: "Build fully functional accessible web applications faster than ever – Mantine includes more than 100 customizable components ",
+    img: "mantine.png",
+    link: "https://mantine.dev/",
   },
   {
     id: 42,
