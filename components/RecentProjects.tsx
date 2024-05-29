@@ -33,7 +33,7 @@ const RecentProjects = () => {
              </div>
 
               <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1 mb-2"
-                style={{ marginTop: "-10px" }}>  // Changed margin-top from default to -10px to move up
+                style={{ marginTop: "-10px" }}>  
                 {item.title}
               </h1>
 
@@ -45,6 +45,7 @@ const RecentProjects = () => {
                   marginTop: "-8px", // Changed margin-top from default to -8px to move up
                 }}
               >
+                
                 {item.des}
               </p>
 
