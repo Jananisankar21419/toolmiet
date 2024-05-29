@@ -6,16 +6,6 @@ export default function FooterDark() {
   const links = [
     {
       id: 1,
-      href: "https://forms.gle/U5R8vuBUHGaiqEEVA",
-      label: "Add a resource",
-    },
-    {
-      id: 2,
-      href: "https://forms.gle/4q8VQqwa7qJfd7Pk6",
-      label: "Submit feedback",
-    },
-    {
-      id: 3,
       href: "https://github.com/Jananisankar21419/toolmiet",
       label: "Contribute",
     },
