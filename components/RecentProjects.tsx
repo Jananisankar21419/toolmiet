@@ -13,7 +13,7 @@ const RecentProjects = () => {
   };
   return (
     <div className="py-20">
-      <h1 className="heading">
+      <h1 className="heading" href="#button">
         Assorted resources <span className="text-purple">for developers</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-12 mt-10">
