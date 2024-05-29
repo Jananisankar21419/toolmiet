@@ -7,7 +7,7 @@ export default function FooterDark() {
     {
       id: 1,
       href: "https://github.com/Jananisankar21419/toolmiet",
-      label: "Contribute",
+      label: "Github",
     },
   ];
 
@@ -18,7 +18,7 @@ export default function FooterDark() {
         <div className="gap-y-4 b-8 flex flex-col text-base xl:text-h6 2xl:text-h5">
           <div className="flex w-56 gap-x-1 xl:w-96 ">
             <span className="w-fit flex-nowrap whitespace-nowrap">
-              Made by{" "}
+              Made with ❤️ by{" "}
             </span>
             <Link
               className="font-bold relative overflow-y-hidden w-full group h-fit"
