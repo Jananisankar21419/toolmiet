@@ -23,5 +23,6 @@ An open source collection of quality resources for developers and designers.
 -  Create a pull request.
 
 
-Thanks for checking out the project.
+
+**Thanks for checking out the project.**
 
