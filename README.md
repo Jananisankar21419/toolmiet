@@ -1,6 +1,6 @@
 # Toolmiet
 
-An open source collection of quality resources for developers.
+An open source collection of quality resources for developers and designers.
 
 [![Project](https://i.postimg.cc/HnmZ2FDs/cover2.png)](https://postimg.cc/MMsmZPph)
 
