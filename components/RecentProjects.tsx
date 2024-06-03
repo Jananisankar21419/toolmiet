@@ -31,7 +31,8 @@ const RecentProjects: React.FC = () => {
       setCurrentPage(currentPage - 1);
     }
   };
-
+  
+//adding pagination
   const startIndex = (currentPage - 1) * itemsPerPage;
   const currentProjects = projects.slice(startIndex, startIndex + itemsPerPage);
 
