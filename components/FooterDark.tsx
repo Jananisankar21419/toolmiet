@@ -13,7 +13,7 @@ export default function FooterDark() {
 
   return (
     <footer className="mt-32 mb-16 sm:mb-0 ">
-      <div className="border-b border-white pb-6"></div>
+      <div className="border-b border-white opacity-50  pb-6"></div>
       <div className="flex flex-col gap-y-12 gap-x-2 md:flex-row items-start justify-between pt-6 pb-10 text-stone">
         <div className="gap-y-4 b-8 flex flex-col text-base xl:text-h6 2xl:text-h5">
           <div className="flex w-56 gap-x-1 xl:w-96 ">
