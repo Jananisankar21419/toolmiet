@@ -398,5 +398,5 @@ export const projects = [
     des: "An elegant smooth scroll API for the web applications to create cool websites",
     img: "lenis.png",
     link: "https://lenis.darkroom.engineering/",
-  },
+  }
 ];
